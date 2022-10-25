@@ -1,4 +1,4 @@
-% CALCOLO PLI PER LE QUATTRO CLASSI
+% PLI for 4 classes
 
 function[pli, mean_PLI] = PLI_calculation(nchannel, epoch)
 
